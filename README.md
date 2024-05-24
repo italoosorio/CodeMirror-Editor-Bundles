@@ -218,9 +218,7 @@ The editor can be stylize using this CSS classes.
 </style>
 ```
 
+## Recognition
 
-
-
-
-
+I want to say thank you to anyone in the [CodeMirror](https://discuss.codemirror.net) forum who has helped me understand the CodeMirror misteries.
 
