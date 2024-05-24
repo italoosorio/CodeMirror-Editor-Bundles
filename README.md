@@ -1,4 +1,4 @@
-# CodeMirror Bundle
+# CodeMirror Editor Bundles
 
 After a steep learning curve to configure and compile the [CodeMirror](https://codemirror.net) code editor for my application, I want to share the pre-compile CodeMirror editors I generated. These editors could help some developers who want to start using CodeMirror in their projects on a direct download-and-use basis.
 
